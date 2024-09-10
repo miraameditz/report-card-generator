@@ -6,56 +6,6 @@
     font-family: "Poppins";
 }
 
-/* .box {
-    width: 30%;
-    border-radius: 20px;
-    padding: 20px 50px;
-    background-color: #fff;
-    box-shadow: 1px 1px 5px #000;
-    background-color: #fda552;
-    color: #fff;
-    margin: 0% auto;
-}
-
-.box h1{
-    margin-bottom: 20px;
-}
-
-.box input{
-    width: 100%;
-    background-color: transparent;
-    border: 0;
-    border-bottom: 1px solid #fff;
-    outline: none;
-    padding: 10px 0px;
-    color: #fff;
-}
-
-.box input::placeholder{
-    color: #fff;
-}
-
-.box button{
-    background-color: #fff;
-    border: 0;
-    padding: 15px 20px;
-    border: 2px solid #fff;
-    cursor: pointer;
-    transition: .4s;
-}
-
-.box button:hover{
-    background-color: transparent;
-    color: #fff;
-}
-
-#output {
-    margin: 20px 0px;
-    background-color: #000;
-    color: #fff;
-    padding: 20px;
-} */
-
 body {
     background-color: #141516;
 }
