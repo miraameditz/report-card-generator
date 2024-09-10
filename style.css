@@ -80,3 +80,35 @@ body {
 .card p span{
     font-weight: 400;
 }
+
+
+@media (max-width:768px) {
+    .report-card {
+        width: 80%;
+        padding: 50px 20px;
+    }
+
+    .card{
+        width: 80%;
+        padding: 50px 20px;
+    }
+
+    .Form h1 {
+        font-size: 23px;
+    }
+
+    .name-column {
+        display: flex;
+        gap: 0px;
+        flex-wrap: wrap;
+    }
+
+    .card h1 {
+        font-size: 23px;
+    }
+
+    .card p {
+        font-size: 15px;
+        color: #000000;
+    }
+}
